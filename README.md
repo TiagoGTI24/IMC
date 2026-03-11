@@ -1,6 +1,6 @@
 # 🧮Calculadora IMC
 
-# projeco  desenvolvido com ** HTML, CSS e JS** com o objetivo de elaborar ma UI que calcula o IMC.
+# projeto  desenvolvido com ** HTML, CSS e JS** com o objetivo de elaborar ma UI que calcula o IMC.
 O projeto inclui CSS e manipulação de campos através do JS.
 
 > Curso Gestão da Tecnologia da Informação - Fatec Itu
@@ -12,4 +12,8 @@ O projeto inclui CSS e manipulação de campos através do JS.
 
 ## Demonstração online
 Acesse https://tiagogti24.github.io/IMC/
+
+## Licença
+
+A licença deste software é **MIT**
 
